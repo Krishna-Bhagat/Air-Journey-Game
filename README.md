@@ -1,18 +1,7 @@
-## Getting Started
+# Air-Journey-Game
+Fly the aeroplane safely and protect it from colliding with buildings and cloud as well.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Air Journey Game where you can fly your own aeroplane safely and obtain a good score.
+You just need to prevent the aeroplane from colliding with buildings and clouds as well.
+Since the PNG image chosen for this project is not perfect, your game may get over even when you get near the clouds because of the invisible rectangular boundary of clouds. That's why, i have cropped the image of buildings from upside.
